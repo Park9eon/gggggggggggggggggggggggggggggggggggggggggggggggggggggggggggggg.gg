@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-N=1000
+N=100
 
 echo "" > index.html
 
